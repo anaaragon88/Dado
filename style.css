@@ -1,0 +1,35 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+img {
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+button {
+    margin-top: 20px;
+    background-color: rgb(8, 122, 101);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 40px;
+    border-radius: 15px;
+}
+
+.contendedor {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
